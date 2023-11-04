@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StiliyanEnchev
-- 👀 I’m interested in Books, Yoga, Games and Codes.
+- 👀 I’m interested in Books, Yoga, Games and Python.
 - 🌱 I’m currently learning Python - Fundamentals at SoftUni.
 
 <!---
