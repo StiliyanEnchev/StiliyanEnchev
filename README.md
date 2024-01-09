@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StiliyanEnchev
 - 👀 I’m interested in Books, Yoga, Games, and Python.
-- 🌱 I’m currently learning Advanced - Python at SoftUni.
+- 🌱 I’m currently learning Python - Advanced at SoftUni.
 - ✨ More Coming Soon.
 <!---
 StiliyanEnchev/StiliyanEnchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
