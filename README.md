@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StiliyanEnchev
 - 👀 I’m interested in Books, Yoga, Games, and Python.
-- 🌱 I’m currently studying PostgreSQL Database at SoftUni.
+- 🌱 I’m currently studying PostgreSQL Databases at SoftUni.
 - ✨ More Coming Soon.
 <!---
 StiliyanEnchev/StiliyanEnchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
