@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @StiliyanEnchev
-- 👀 I’m interested in Books, Yoga, Games, and Python.
-- 🌱 I’m currently learning JS Front-End as part of the Python course at SoftUni.
-- ✨ More Coming Soon.
-<!---
-StiliyanEnchev/StiliyanEnchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hello there, I’m Stiliyan Enchev
+
+💡 Passionate about creativity, logic, and continuous learning.
+
+## 🌟 About Me
+
+- 📚 **Book lover** always chasing new stories and perspectives  
+- 🧘 **Yoga enthusiast** balancing mind and code  
+- 🎮 **Gamer at heart**, always ready for a new challenge  
+- 🐍 **Pythonista** turned **tech explorer** — building from backend to front
+
+## 🚀 Currently Learning
+
+- 💻 **Software Engineering** principles and best practices  
+- ⚙️ **DevOps** tools and workflows for smarter deployment and automation
+
+## 📌 Goals
+
+- 🚧 Craft sleek, responsive web apps  
+- 🧠 Sharpen problem-solving with real-world projects  
+- ✨ Share what I learn through open-source contributions
+
+## 📫 Let's Connect
+
+Feel free to reach out or explore my repositories — exciting stuff is on the way!
+
+---
+
+> 🛠️ *More coming soon — the journey has just begun...*
