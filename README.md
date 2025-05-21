@@ -7,22 +7,32 @@
 - 📚 **Book lover** always chasing new stories and perspectives  
 - 🧘 **Yoga enthusiast** balancing mind and code  
 - 🎮 **Gamer at heart**, always ready for a new challenge  
-- 🐍 **Pythonista** turned **tech explorer** — building from backend to front
+- 🐍 **Python developer** expanding into the world of software engineering
+
+## 📘 My Journey So Far
+
+- ✅ **HTML & CSS** – Foundations of web design and layout  
+- ✅ **Python** – Syntax, data structures, OOP, modules, testing  
+- ✅ **Django** – Models, views, forms, ORM, security, and custom user systems  
+- ✅ **JavaScript Fundamentals** – Syntax, arrays, functions, objects  
+- ✅ **DOM & Events** – Working with the DOM tree and user interaction  
+- ✅ **HTTP & REST** – Requests, responses, JSON, and server communication  
+- 🚧 **Software Engineering & DevOps** – Currently diving into these topics
 
 ## 🚀 Currently Learning
 
-- 💻 **Software Engineering** principles and best practices  
-- ⚙️ **DevOps** tools and workflows for smarter deployment and automation
+- 💻 **Software Engineering** – Best practices, clean code, design principles  
+- ⚙️ **DevOps** – CI/CD, automation, infrastructure, and deployment
 
 ## 📌 Goals
 
-- 🚧 Craft sleek, responsive web apps  
-- 🧠 Sharpen problem-solving with real-world projects  
-- ✨ Share what I learn through open-source contributions
+- 🚧 Build sleek, responsive web apps  
+- 🧠 Strengthen problem-solving through real-world projects  
+- ✨ Share knowledge and grow through open-source contributions
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-Feel free to reach out or explore my repositories — exciting stuff is on the way!
+Feel free to explore my repositories — exciting things are on the way!
 
 ---
 
