@@ -7,7 +7,6 @@
 - 📚 **Book lover** always chasing new stories and perspectives  
 - 🧘 **Yoga enthusiast** balancing mind and code  
 - 🎮 **Gamer at heart**, always ready for a new challenge  
-- 🐍 **Python developer** expanding into the world of software engineering
 
 ## 📘 My Journey So Far
 
@@ -23,12 +22,6 @@
 
 - 💻 **Software Engineering** – Best practices, clean code, design principles  
 - ⚙️ **DevOps** – CI/CD, automation, infrastructure, and deployment
-
-## 📌 Goals
-
-- 🚧 Build sleek, responsive web apps  
-- 🧠 Strengthen problem-solving through real-world projects  
-- ✨ Share knowledge and grow through open-source contributions
 
 ## 📫 Let’s Connect
 
