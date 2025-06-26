@@ -1,32 +1,49 @@
-# 👋 Hello there, I’m Stiliyan Enchev
+# 👋 Hey there, I’m **Stiliyan Enchev**
 
-💡 Passionate about creativity, logic, and continuous learning.
-
-## 🌟 About Me
-
-- 📚 **Book lover** always chasing new stories and perspectives  
-- 🧘 **Yoga enthusiast** balancing mind and code  
-- 🎮 **Gamer at heart**, always ready for a new challenge  
-
-## 📘 My Journey So Far
-
-- ✅ **HTML & CSS** – Foundations of web design and layout  
-- ✅ **Python** – Syntax, data structures, OOP, modules, testing  
-- ✅ **Django** – Models, views, forms, ORM, security, and custom user systems  
-- ✅ **JavaScript Fundamentals** – Syntax, arrays, functions, objects  
-- ✅ **DOM & Events** – Working with the DOM tree and user interaction  
-- ✅ **HTTP & REST** – Requests, responses, JSON, and server communication  
-- 🚧 **Software Engineering & DevOps** – Currently diving into these topics
-
-## 🚀 Currently Learning
-
-- 💻 **Software Engineering** – Best practices, clean code, design principles  
-- ⚙️ **DevOps** – CI/CD, automation, infrastructure, and deployment
-
-## 📫 Let’s Connect
-
-Feel free to explore my repositories — exciting things are on the way!
+💡 Creative thinker | 🧠 Logic lover | 🎯 Lifelong learner  
+🛠️ Passionate about building, exploring, and evolving.
 
 ---
 
-> 🛠️ *More coming soon — the journey has just begun...*
+<table>
+  <tr>
+    <th align="left">🌟 About Me</th>
+    <th align="left">🎓 Skills & Tech Journey</th>
+    <th align="left">🚀 Currently Exploring</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      📚 Book lover chasing stories & perspectives<br>
+      🧘 Yoga enthusiast – balance in life & code<br>
+      🎮 Gamer at heart – challenge accepted<br>
+      🌍 Always curious, always growing
+    </td>
+    <td valign="top">
+      ✅ <strong>HTML & CSS</strong> – Clean layouts & responsive design<br>
+      ✅ <strong>Python</strong> – Syntax, data structures, OOP, testing<br>
+      ✅ <strong>Django</strong> – Models, views, ORM, security, custom users<br>
+      ✅ <strong>JavaScript</strong> – Core syntax, objects, functions<br>
+      ✅ <strong>DOM & Events</strong> – Interactive front-end logic<br>
+      ✅ <strong>HTTP & REST</strong> – APIs, JSON, server comms
+    </td>
+    <td valign="top">
+      🧹 Clean Code & Software Architecture<br>
+      📦 DevOps – CI/CD, automation, deployment<br>
+      💻 Design Patterns & Best Practices<br>
+      🔧 Infrastructure & version control workflows<br>
+      🔍 Test-driven development & debugging
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Let’s Connect
+Feel free to explore my repositories — exciting things are in the works.  
+I’m always open to learning, collaboration, and meaningful discussions!
+
+---
+
+### 🛠️ Coming Soon
+More cool stuff is on the way...  
+The journey has just begun 🌱
