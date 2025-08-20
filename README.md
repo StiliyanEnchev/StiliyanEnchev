@@ -5,37 +5,17 @@
 
 ---
 
-<table>
-  <tr>
-    <th align="left">🌟 About Me</th>
-    <th align="left">🎓 Skills & Tech Journey</th>
-    <th align="left">🚀 Currently Exploring</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      📚 Book lover chasing stories & perspectives<br>
-      🧘 Yoga enthusiast – balance in life & code<br>
-      🎮 Gamer at heart – challenge accepted<br>
-      🌍 Always curious, always growing
-    </td>
-    <td valign="top">
-      ✅ <strong>HTML & CSS</strong> – Clean layouts & responsive design<br>
-      ✅ <strong>Python</strong> – Syntax, data structures, OOP, testing<br>
-      ✅ <strong>Django</strong> – Models, views, ORM, security, custom users<br>
-      ✅ <strong>JavaScript</strong> – Core syntax, objects, functions<br>
-      ✅ <strong>DOM & Events</strong> – Interactive front-end logic<br>
-      ✅ <strong>HTTP & REST</strong> – APIs, JSON, server comms
-    </td>
-    <td valign="top">
-      🧹 Clean Code & Software Architecture<br>
-      📦 DevOps – CI/CD, automation, deployment<br>
-      💻 Design Patterns & Best Practices<br>
-      🔧 Infrastructure & version control workflows<br>
-      🔍 Test-driven development & debugging
-    </td>
-  </tr>
-</table>
+👨‍💻 Python explorer | 🏗️ Builder of apps | 💾 Backend & frontend tinkerer
 
+Over the past couple of years, I’ve leveled up from Programming Basics to Advanced Python, Django, PostgreSQL, and even HTML, CSS, and JavaScript. I’ve also dabbled in Software Engineering and DevOps, so I get how all the pieces fit together.
+
+I love turning ideas into real projects, experimenting with new tech, and having fun while coding.
+
+## 🌟 Other interests:
+
+- 📚 **Book lover** always chasing new stories and perspectives 
+- 🧘 **Yoga enthusiast** balancing mind and code 
+- 🎮 **Gamer at heart**, always ready for a new challenge 
 ---
 
 ### 📫 Let’s Connect
